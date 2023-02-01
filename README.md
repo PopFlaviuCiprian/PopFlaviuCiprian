@@ -60,12 +60,6 @@ https://cvpopciprianhtmlcss.netlify.app
 Automated Postman tests
 
 You can find me on the folowing link:
-
-www.linkedin.com/in/flaviu-ciprian-pop
-
-Thank You !
-
-You can find me on the folowing link:
 - 📫 How to reach me: www.linkedin.com/in/flaviu-ciprian-pop
 
 
