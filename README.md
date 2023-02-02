@@ -54,8 +54,8 @@ My goal is to develop testing knowledge and technical skills and becoming in tim
 - Automation Testing - IT Factory
 
 # My projects:
-- API Testing with Postman - project found above in MyProjects section
-- Individual project - making my own CV in HTML/CSS with Visual Studio Code - Above in My-CV or link bellow
+- API Testing with Postman - project found bellow in MyProjects repository
+- Individual project - making my own CV in HTML/CSS with Visual Studio Code -source code bellow in My-CV repository or link bellow
 - https://cvpopciprianhtmlcss.netlify.app
 - Automated Postman tests
 
