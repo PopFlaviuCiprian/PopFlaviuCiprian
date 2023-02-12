@@ -10,6 +10,7 @@ My goal is to develop testing knowledge and technical skills and becoming in tim
 - W3Schools
 - Tutorialspoint.com
 - Codeacademy
+- Data Camp
 
 # Tools:
 - Postman - Testing tool for REST API
