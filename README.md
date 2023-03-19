@@ -1,6 +1,6 @@
 # Portfolio
 # About me:
-My name is Pop Ciprian. I am currently an Automation Engineer on the hardware, but I want to improve my skills on software. 
+My name is Pop Ciprian. I am currently an Hardware Engineer, but I want to improve my skills on software. 
 My goal is to develop testing knowledge and technical skills and becoming in time a devoloper. On this site I would like to share my all gained experience from personal studies and researches and also the Automation Testing Course from IT Factory
 
 
