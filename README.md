@@ -46,7 +46,8 @@ My goal is to develop testing knowledge and technical skills and becoming in tim
 # Groups on Whatsapp:
 - Selenium Demo
 
-# Recommended Youtube channels from wich i practice alot:
+# Recommended Youtube channels from wich i practice and learn new things and keep me up to date:
+- https://www.youtube.com/@ViorelMocanu
 - https://www.youtube.com/@VlogDeIT
 - https://www.youtube.com/@MariusCiurea
 - https://www.youtube.com/@softwaretestingmentor
