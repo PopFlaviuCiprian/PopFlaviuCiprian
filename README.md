@@ -26,13 +26,20 @@ My goal is to develop testing knowledge and technical skills and becoming in tim
 - PyTest
 - BDD with Gherkin syntax
 - UnitTest
+- Jenkins
+- Python
+- Allure
 
-# Courses :
+# Courses:
+- QA Automation Tester
 - Firsts steps in programing - in Python - IT FACTOY
 - GIT & GitHub
 - Automation Testing in Python
 - Intoduction in Databases
-
+- Intro to DevOps tools , Jenkins, Doker - Ansible, AWS, GCP
+- ISTQB Foundation Level Complete Training 2023
+- Google Crash Course on Python
+  
 # Books readed:
 - Python_vol_1_fundations
 - Python_vol_2_structures and algorithms
@@ -43,8 +50,6 @@ My goal is to develop testing knowledge and technical skills and becoming in tim
 - QA Automation and Manual Testing
 - Python Tutorialz
 
-# Groups on Whatsapp:
-- Selenium Demo
 
 # Recommended Youtube channels from wich i practice and learn new things and keep me up to date:
 - https://www.youtube.com/@ViorelMocanu
@@ -53,14 +58,6 @@ My goal is to develop testing knowledge and technical skills and becoming in tim
 - https://www.youtube.com/@softwaretestingmentor
 - https://www.youtube.com/@CODE_ROOM
 
-# Webinars
-- Automation Testing - IT Factory
-
-# My projects:
-- API Testing with Postman - project found bellow in MyProjects repository
-- Individual project - making my own CV in HTML/CSS with Visual Studio Code -source code bellow in My-CV repository or link bellow
-- https://cvpopciprianhtmlcss.netlify.app
-- Automated Postman tests
 
 # You can find me on the folowing link:
 - www.linkedin.com/in/flaviu-ciprian-pop
