@@ -1,59 +1,40 @@
-# Portfolio
 # About me:
-My name is Pop Ciprian. I am currently an Hardware Engineer, but I want to improve my skills on software. 
-My goal is to develop testing knowledge and technical skills and becoming in time a devoloper. On this site I would like to share my all gained experience from personal studies and researches and also the Automation Testing Course from IT Factory
+Hello there! I'm Ciprian, a passionate professional currently working as a Hardware Automation Engineer with a deep love for optimizing processes and pushing the boundaries of technology. My journey in the world of hardware automation has been a thrilling adventure, where I've had the opportunity to blend my technical skills with creative problem-solving.
 
+In my current role, I specialize in designing and implementing automated systems for hardware testing and validation. My days are filled with orchestrating intricate processes to ensure efficiency, reliability, and precision in the world of hardware development. However, as technology evolves, so does my desire to expand my skill set and contribute to more comprehensive solutions.
 
-# Always improving my skills with folowing:
-- Stack Overflow
-- Codewars
-- W3Schools
-- Tutorialspoint.com
-- Codeacademy
-- Data Camp
+My career aspirations have led me to set my sights on becoming a DevOps Engineer. The prospect of seamlessly integrating development and operations processes, automating workflows, and enhancing overall system performance fascinates me. I believe that the bridge between hardware and software is a powerful space where innovation thrives, and I am eager to be at the forefront of this transformation.
+
+I am currently honing my skills in scripting languages, configuration management, and continuous integration tools to make this transition. My goal is to leverage my background in hardware automation and blend it with the principles of DevOps to create robust and scalable systems.
+
+When I'm not immersed in the world of technology, you can find me probably taking a walk in to the nature to recharge my powers. I believe in continuous learning and thrive in environments that encourage collaboration, creativity, and adaptability. I am excited about the possibilities that the future holds and am ready to embrace the challenges that come with this dynamic and ever-evolving field.
+
+Let's connect and explore how my unique background can contribute to the exciting world of DevOps!
+
 
 # Tools:
 - Linux  - Git  - Bash  - Docker  - Ansible  - Jenkins  - Prometheus & Grafana  - AWS
 - Python  -Selenium
 
 # Tech skills
-- Software testing
-- Creating test cases
-- Reporting bugs
-- Selenium-Webdriver
-- PyTest
-- BDD with Gherkin syntax
-- UnitTest
-- Jenkins
-- Python
-- Allure
+- HTML -CSS
+- App containerization with Docker
+- Create automation with Ansible
+- Website testing and automation with Python and Selenium WebDriver
 
 # Courses:
+- DevOps Engineer
 - QA Automation Tester
-- Firsts steps in programing - in Python - IT FACTOY
+- Advanced training in Cybersecurity 
 - GIT & GitHub
 - Automation Testing in Python
-- Intoduction in Databases
 - Intro to DevOps tools , Jenkins, Doker - Ansible, AWS, GCP
 - ISTQB Foundation Level Complete Training 2023
 - Google Crash Course on Python
-  
-# Books readed:
-- Python_vol_1_fundations
-- Python_vol_2_structures and algorithms
 
-# Groups on Facebook: 
-- Programmers
-- Python Programming Beginners to Experts
-- QA Automation and Manual Testing
-- Python Tutorialz
-
-
-# Recommended Youtube channels from wich i practice and learn new things and keep me up to date:
+# Recommended Youtube channels from which i practice and learn new things and keep me up to date:
 - https://www.youtube.com/@ViorelMocanu
-- https://www.youtube.com/@VlogDeIT
 - https://www.youtube.com/@MariusCiurea
-- https://www.youtube.com/@softwaretestingmentor
 - https://www.youtube.com/@CODE_ROOM
 
 
