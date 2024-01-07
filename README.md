@@ -32,7 +32,7 @@ Let's connect and explore how my unique background can contribute to the excitin
 - ISTQB Foundation Level Complete Training 2023
 - Google Crash Course on Python
 
-# Recommended Youtube channels from which i practice and learn new things and keep me up to date:
+### Youtube channels that keep me up to date:
 - https://www.youtube.com/@ViorelMocanu
 - https://www.youtube.com/@MariusCiurea
 - https://www.youtube.com/@CODE_ROOM
