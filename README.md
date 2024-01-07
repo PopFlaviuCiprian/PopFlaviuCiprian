@@ -13,10 +13,8 @@ My goal is to develop testing knowledge and technical skills and becoming in tim
 - Data Camp
 
 # Tools:
-- Postman - Testing tool for REST API
-- Selenium IDE -(https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
-- xPath Finder -(https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph)- xPath finding tool
-- Selenium object finder - (https://chrome.google.com/webstore/detail/selenium-object-finder/afckeoeojpomagchfimplhodjooafmcf/related)
+- Linux  - Git  - Bash  - Docker  - Ansible  - Jenkins  - Prometheus & Grafana  - AWS
+- Python  -Selenium
 
 # Tech skills
 - Software testing
