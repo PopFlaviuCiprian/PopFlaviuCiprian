@@ -13,13 +13,15 @@ Let's connect and explore how my unique background can contribute to the excitin
 
 
 # Tools:
-- Linux  - Git  - Bash  - Docker  - Ansible  - Jenkins  - Prometheus & Grafana  - AWS
+- Linux - Git and GitHub  - Bash  - Docker - Docker Swarm - Docker Hub - Ansible  - Jenkins - Prometheus & Grafana  - AWS  - Terraform
 - Python  -Selenium
 
 # Tech skills
 - HTML -CSS
 - App containerization with Docker
-- Create automation with Ansible
+- Create automation and configuration management with Ansible
+- Create IaC with Terraform in AWS
+- Pushing and pulling created images from Docker Hub
 - Website testing and automation with Python and Selenium WebDriver
 
 # Courses:
