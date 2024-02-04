@@ -17,11 +17,12 @@ Let's connect and explore how my unique background can contribute to the excitin
 - Python  -Selenium
 
 # Tech skills
-- HTML -CSS
+- Linux for DevOps
 - App containerization with Docker
 - Create automation and configuration management with Ansible
 - Create IaC with Terraform in AWS
 - Pushing and pulling created images from Docker Hub
+- Basic HTML and CSS
 - Website testing and automation with Python and Selenium WebDriver
 
 # Courses:
