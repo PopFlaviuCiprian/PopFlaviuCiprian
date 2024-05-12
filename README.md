@@ -14,7 +14,7 @@ Let's connect and explore how my unique background can contribute to the excitin
 
 # Tools:
 - Linux - Git and GitHub  - Bash  - Docker - Docker Swarm - Docker Hub - Ansible  - Jenkins - Prometheus & Grafana  - AWS  - Terraform
-- Python  -Selenium
+- Python  -Selenium -Proxmox -Kubernetes
 
 # Tech skills
 - Linux for DevOps
@@ -44,6 +44,6 @@ Let's connect and explore how my unique background can contribute to the excitin
 # You can find me on the folowing link:
 - www.linkedin.com/in/flaviu-ciprian-pop
 
-Thank You !
+may the --force be with you
 
 
